@@ -1,2 +1,2 @@
-this folder contains my college assignment and theory experiments on advanced python concepts
+College assignments and theory experiments on advanced python concepts for SEM-III
 
